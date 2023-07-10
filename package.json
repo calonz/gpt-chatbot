@@ -16,6 +16,9 @@
     "url": "https://github.com/macesdev/gpt-chatbot/issues"
   },
   "homepage": "https://github.com/macesdev/gpt-chatbot#readme",
+  "engines": {
+    "node": ">=16.9"
+  },
   "dependencies": {
     "discord.js": "^14.11.0",
     "dotenv": "^16.3.1"
